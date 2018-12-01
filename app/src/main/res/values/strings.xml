@@ -1,0 +1,218 @@
+<resources
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name">Guider</string>
+    <string name="title_images">Images</string>
+    <string name="title_places">Places</string>
+    <string name="title_dining">Dining</string>
+    <string name="title_events">Events</string>
+
+    <!-- The String resources for tour locations -->
+
+    <!-- Strings for the Eiffel Tower -->
+    <string name="location_eiffel_tower">Eiffel Tower</string>
+    <string name="address_eiffel_tower">Address: Champ de Mars, 5 Avenue Anatole France, 75007
+        Paris, France</string>
+    <string name="phone_eiffel_tower">Phone: 33 892 70 12 39</string>
+
+    <!-- Strings for the Louvre Museum -->
+    <string name="location_louvre_museum" tools:ignore="ExtraTranslation">Louvre Museum</string>
+    <string name="address_louvre_museum">Address: Rue de Rivoli, 75001 Paris, France</string>
+    <string name="phone_louvre_museum">Phone: 33 1 40 20 50 50</string>
+
+    <!-- Strings for Notre-Dame de Paris -->
+    <string name="location_notre_dame">Notre-Dame de Paris</string>
+    <string name="address_notre_dame">Address: 6 Parvis Notre-Dame - Pl. Jean-Paul II, 75004 Paris, France</string>
+    <string name="phone_notre_dame">Phone: 33 1 42 34 56 10</string>
+
+    <!-- Strings for Arc de Triomphe -->
+    <string name="location_arc_de_triomphe">Arc de Triomphe</string>
+    <string name="address_arc_de_triomphe">Address: Place Charles de Gaulle, 75008 Paris, France</string>
+    <string name="phone_arc_de_triomphe">Phone: 33 1 55 37 73 77</string>
+
+    <!-- Strings for the Palace of Versailles -->
+    <string name="location_palace_of_versailles">Palace of Versailles</string>
+    <string name="address_palace_of_versailles">Address: Place d\'Armes, 78000 Versailles,
+        France</string>
+    <string name="phone_palace_of_versailles">Phone: 33 1 30 83 78 00</string>
+
+    <!-- Strings for Sacré-Cœur Basilica -->
+    <string name="location_sacré_cœur">Sacré-Cœur Basilica</string>
+    <string name="address_sacré_cœur">Address: 35 Rue du Chevalier de la Barre, 75018 Paris,
+        France</string>
+    <string name="phone_sacré_cœur">Phone: 33 1 53 41 89 00</string>
+
+    <!-- Strings for Place de la Concorde -->
+    <string name="location_place_de_la_concorde">Place de la Concorde</string>
+    <string name="address_place_de_la_concorde">Address: 75008 Paris, France</string>
+    <string name="phone_place_de_la_concorde">No phone number</string>
+
+    <!-- Strings for Musée d'Orsay -->
+    <string name="location_musée_d_orsay">Musée d\'Orsay</string>
+    <string name="address_musée_d_orsay">Address: 1 Rue de la Légion d\'Honneur, 75007 Paris,
+        France</string>
+    <string name="phone_musée_d_orsay">Phone: 33 1 40 49 48 14</string>
+
+    <!-- Strings for the Tuileries Garden -->
+    <string name="location_tuileries_garden">Tuileries Garden</string>
+    <string name="address_tuileries_garden">Address: 113 Rue de Rivoli, 75001 Paris, France</string>
+    <string name="phone_tuileries_garden">No phone number</string>
+
+    <!-- Strings for Jardin du Luxembourg -->
+    <string name="location_jardin_du_luxembourg">Jardin du Luxembourg</string>
+    <string name="address_jardin_du_luxembourg">Address: 75006 Paris, France</string>
+    <string name="phone_jardin_du_luxembourg">Phone: 33 1 42 34 20 00</string>
+
+    <!-- Strings for Centre Georges Pompidou -->
+    <string name="location_centre_georges_pompidou">Centre Georges Pompidou</string>
+    <string name="address_centre_georges_pompidou">Address: Place Georges-Pompidou, 75004 Paris, France</string>
+    <string name="phone_centre_georges_pompidou">Phone: 33 1 44 78 12 33</string>
+
+    <!-- Strings for Moulin Rouge -->
+    <string name="location_moulin_rouge">Moulin Rouge</string>
+    <string name="address_moulin_rouge">Address: 82 Boulevard de Clichy, 75018 Paris, France</string>
+    <string name="phone_moulin_rouge">Phone: 33 1 53 09 82 82</string>
+
+    <!-- Strings for Les Invalides -->
+    <string name="location_les_invalides">Les Invalides</string>
+    <string name="address_les_invalides">Address: Rond-Point du Bleuet de France, 75007 Paris, France</string>
+    <string name="phone_les_invalides">Phone: 33 1 44 42 38 77</string>
+
+    <!-- Strings for Père Lachaise Cemetery -->
+    <string name="location_père_lachaise_cemetery">Père Lachaise Cemetery</string>
+    <string name="address_père_lachaise_cemetery">Address: 16 Rue du Repos, 75020 Paris, France</string>
+    <string name="phone_père_lachaise_cemetery">Phone: 33 1 55 25 82 10</string>
+
+    <!-- Strings for Catacombs of Paris -->
+    <string name="location_catacombs_of_paris">Catacombs of Paris</string>
+    <string name="address_catacombs_of_paris">Address: 1 Avenue du Colonel Henri Rol-Tanguy, 75014 Paris, France</string>
+    <string name="phone_catacombs_of_paris">Phone: 33 1 43 22 47 63</string>
+
+    <!-- The String resources for Paris dining -->
+
+    <!-- Strings for Le Cinq -->
+    <string name="location_le_cinq">Le Cinq</string>
+    <string name="address_le_cinq">Address: 31 Avenue George V, 75008 Paris, France</string>
+    <string name="phone_le_cinq">Phone: 33 1 49 52 71 54</string>
+
+    <!-- Strings for the Breizh Café -->
+    <string name="location_breizh_café" tools:ignore="ExtraTranslation">Breizh Café</string>
+    <string name="address_breizh_café">Address: 109 Rue Vieille du Temple, 75003 Paris, France</string>
+    <string name="phone_breizh_café">Phone: 33 1 42 72 13 77</string>
+
+    <!-- Strings for Pur' - Jean-François Rouquette -->
+    <string name="location_pur_jean_françois_rouquette">Pur\' - Jean-François Rouquette</string>
+    <string name="address_pur_jean_françois_rouquette">Address: Park Hyatt Paris Vendôme - 5 Rue de la Paix, 75002 Paris, France</string>
+    <string name="phone_pur_jean_françois_rouquette">Phone: 33 1 58 71 10 60</string>
+
+    <!-- Strings for Le Calife -->
+    <string name="location_le_calife">Le Calife</string>
+    <string name="address_le_calife">Address: 3 Quai Malaquais, 75006 Paris, France</string>
+    <string name="phone_le_calife">Phone: 33 1 43 54 50 04</string>
+
+    <!-- Strings for the Epicure -->
+    <string name="location_epicure">Epicure</string>
+    <string name="address_epicure">Address: 112 Rue du Faubourg Saint-Honoré, 75008 Paris, France</string>
+    <string name="phone_epicure">Phone: 33 1 53 43 43 40</string>
+
+    <!-- Strings for L'Astrance -->
+    <string name="location_l_astrance">L\'Astrance</string>
+    <string name="address_l_astrance">Address: 4 Rue Beethoven, 75016 Paris, France</string>
+    <string name="phone_l_astrance">Phone: 33 1 40 50 84 40</string>
+
+    <!-- Strings for Les Canailles -->
+    <string name="location_les_canailles">Les Canailles</string>
+    <string name="address_les_canailles">Address: 25 Rue la Bruyère, 75009 Paris, France</string>
+    <string name="phone_les_canailles">Phone: 33 1 48 74 10 48</string>
+
+    <!-- Strings for L'Abeille -->
+    <string name="location_l_abeille">L\'Abeille</string>
+    <string name="address_l_abeille">Address: 10 Avenue d\'Iéna, 75116 Paris, France</string>
+    <string name="phone_l_abeille">Phone: 33 1 53 67 19 90</string>
+
+    <!-- Strings for Pierre Gagnaire -->
+    <string name="location_pierre_gagnaire">Pierre Gagnaire</string>
+    <string name="address_pierre_gagnaire">Address: 6 Rue Balzac, 75008 Paris, France</string>
+    <string name="phone_pierre_gagnaire">Phone: 33 1 58 36 12 50</string>
+
+    <!-- Strings for Il était un square -->
+    <string name="location_il_était_un_square">Il était un square</string>
+    <string name="address_il_était_un_square">Address: 54 Rue Corvisart, 75013 Paris, France</string>
+    <string name="phone_il_était_un_square">Phone: 33 1 43 37 68 07</string>
+
+    <!-- Strings for L'Arcane -->
+    <string name="location_l_arcane">L\'Arcane</string>
+    <string name="address_l_arcane">Address: 39 Rue Lamarck, 75018 Paris, France</string>
+    <string name="phone_l_arcane">Phone: 33 1 46 06 86 00</string>
+
+    <!-- Strings for New Jawad Longchamp -->
+    <string name="location_new_jawad_longchamp">New Jawad Longchamp</string>
+    <string name="address_new_jawad_longchamp">Address: 30 Rue de Longchamp, 75116 Paris, France</string>
+    <string name="phone_new_jawad_longchamp">Phone: 33 1 47 27 24 14</string>
+
+    <!-- Strings for Boutary -->
+    <string name="location_boutary">Boutary</string>
+    <string name="address_boutary">Address: 25 Rue Mazarine, 75006 Paris, France</string>
+    <string name="phone_boutary">Phone: 33 1 43 43 69 10</string>
+
+    <!-- Strings for Restaurant Kei -->
+    <string name="location_restaurant_kei">Restaurant Kei</string>
+    <string name="address_restaurant_kei">Address: 5 Rue Coq Héron, 75001 Paris, France</string>
+    <string name="phone_restaurant_kei">Phone: 33 1 42 33 14 74</string>
+
+    <!-- Strings for Le vent d'Armor -->
+    <string name="location_le_vent_d_armor">Le vent d\'Armor</string>
+    <string name="address_le_vent_d_armor">Address: 25 Quai de la Tournelle, 75005 Paris, France</string>
+    <string name="phone_le_vent_d_armor">Phone: 33 1 46 34 50 99</string>
+
+    <!-- The String resources for yearly Paris events -->
+
+    <!-- Strings for fashion week -->
+    <string name="event_fashion_week" tools:ignore="ExtraTranslation">Fashion Week</string>
+    <string name="month_fashion_week">January</string>
+
+    <!-- Strings for Valentine's Day -->
+    <string name="event_valentines_day">Valentine\'s Day</string>
+    <string name="month_valentines_day">February</string>
+
+    <!-- Strings for the Fitbit Paris half-marathon -->
+    <string name="event_fitbit_half_marathon">The Fitbit Paris Half-Marathon</string>
+    <string name="month_fitbit_half_marathon">March</string>
+
+    <!-- Strings for Paris Expo Porte de Versailles. -->
+    <string name="event_paris_expo_porte_de_versailles">Paris Expo Porte de Versailles</string>
+    <string name="month_paris_expo_porte_de_versailles">April</string>
+
+    <!-- Strings for Villette Sonique -->
+    <string name="event_villette_sonique">Villette Sonique</string>
+    <string name="month_villette_sonique">May</string>
+
+    <!-- Strings for Download Festival -->
+    <string name="event_download_festival">Download Festival</string>
+    <string name="month_download_festival">June</string>
+
+    <!-- Strings for Bastille Day -->
+    <string name="event_bastille_day">Bastille Day</string>
+    <string name="month_bastille_day">July</string>
+
+    <!-- Strings for Open Air Cinema Festival -->
+    <string name="event_open_air_cinema_festival">Open Air Cinema Festival</string>
+    <string name="month_open_air_cinema_festival">August</string>
+
+    <!-- Strings for European Heritage Days -->
+    <string name="event_european_heritage_days">European Heritage Days</string>
+    <string name="month_european_heritage_days">September</string>
+
+    <!-- Strings for Nuit Blanche -->
+    <string name="event_nuit_blanche">Nuit Blanche</string>
+    <string name="month_nuit_blanche">October</string>
+
+    <!-- Strings for Christmas illuminations -->
+    <string name="event_christmas_illuminations">Christmas Illuminations</string>
+    <string name="month_christmas_illuminations">November</string>
+
+    <!-- Strings for Christmas window displays-->
+    <string name="event_christmas_window_displays">Christmas Window Displays</string>
+    <string name="month_christmas_window_displays">December</string>
+
+</resources>
